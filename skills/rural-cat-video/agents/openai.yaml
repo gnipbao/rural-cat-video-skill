@@ -1,0 +1,4 @@
+interface:
+  display_name: "田园猫咪短片导演"
+  short_description: "通过角色、分镜、Renoise生成与本地剪辑完成写实双猫田园短片"
+  default_prompt: "用 $rural-cat-video 帮我制作一条写实田园双猫做饭短片，先沿用已有素材和授权推进脚本与制作。"
